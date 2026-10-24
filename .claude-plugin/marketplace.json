@@ -1,0 +1,14 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "osint-skills",
+  "description": "Defensive OSINT skills for Claude Code. Pure Python, no API keys.",
+  "owner": { "name": "Illia Usachov", "url": "https://github.com/AHeartOfIron" },
+  "plugins": [
+    {
+      "name": "osint-skills",
+      "description": "Check domains, email headers, photo metadata, links (including Telegram deep links) and IP addresses.",
+      "source": "./",
+      "category": "security"
+    }
+  ]
+}

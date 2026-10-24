@@ -1,0 +1,10 @@
+{
+  "name": "osint-skills",
+  "version": "0.1.0",
+  "description": "Defensive OSINT skills for Claude Code: domain and mail security, email header forensics, photo metadata (read and strip), link and Telegram deep-link safety, IP ownership. Pure Python, no API keys.",
+  "author": { "name": "Illia Usachov", "url": "https://github.com/AHeartOfIron" },
+  "homepage": "https://github.com/AHeartOfIron/osint-skills",
+  "repository": "https://github.com/AHeartOfIron/osint-skills",
+  "license": "MIT",
+  "keywords": ["osint", "security", "phishing", "exif", "telegram", "dns", "email"]
+}
